@@ -10,6 +10,35 @@ You may use and share the patch, but modification and commercial use are strictl
 ➡️ Download the latest installer from **Releases**:
 https://github.com/knightace/ProjectRevive2026/releases
 
+## 🔒 Official Sources Only
+This project is distributed ONLY through verified channels.
+
+See:
+👉 OFFICIAL.md
+
+---
+
+## ⚠️ Safety Notice
+- Do NOT download from third-party sites
+- Do NOT use modified or repacked versions
+- Modified versions are NOT supported
+
+---
+## 🛡️ Integrity
+SHA256 Hash for IGI2 Setup:
+6447ce287ce9e5712cc06f96f4b9014456b6c86ab4c74c5ef44a1b1304848279
+
+## ✅ Version Identification
+Always check:
+
+| Field        | Example            |
+|-------------|------------------|
+| Version     | v1.0.0           |
+| File Name   | REVIVE_v1.0.0.zip|
+| Source      | GitHub Releases  |
+
+---
+
 ## What this patch does (high level)
 - Multiplayer compatibility improvements
 - Stability/crash fixes
@@ -22,3 +51,11 @@ No ownership is claimed over the original game.
 ## Support / Community
 - Discord: https://discord.gg/Jn3FjvvAk5
 - Website: https://reviveigi2.com/
+- 
+## Legal Notice
+
+This repository is maintained in good faith as a non-commercial community project.
+
+We actively respect intellectual property rights and are open to cooperation with rights holders.
+
+Any concerns can be addressed via official contact channels provided above.

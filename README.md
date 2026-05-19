@@ -8,7 +8,7 @@ You may use and share the patch, but modification and commercial use are strictl
 
 # Downloads
 ➡️ Download the latest installer from **Releases**:
-https://github.com/<your-username>/<repo>/releases
+https://github.com/knightace/ProjectRevive2026/releases
 
 ## What this patch does (high level)
 - Multiplayer compatibility improvements

@@ -26,7 +26,7 @@ See:
 ---
 ## 🛡️ Integrity
 SHA256 Hash for IGI2 Setup:
-6447ce287ce9e5712cc06f96f4b9014456b6c86ab4c74c5ef44a1b1304848279
+8b90f837610050f92fc20bcf4ea495eaf6e176f48de9b7f7f7735991c5eb2240
 
 ## ✅ Version Identification
 Always check:

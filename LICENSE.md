@@ -1,18 +1,22 @@
-Project REVIVE License
-
-This project is licensed under:
-
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
+Copyright (c) 2026 Project REVIVE Team
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
 You are free to:
-- Download and use the patch for personal use
-- Share the original unmodified files with proper credit
+- Share — copy and redistribute the material in any medium or format
 
-You may NOT:
-- Modify the patch or create derivative works
-- Redistribute modified versions
-- Use this project for commercial purposes
+Under the following terms:
+- Attribution — You must give appropriate credit to Project REVIVE
+- NonCommercial — You may not use the material for commercial purposes
+- NoDerivatives — You may not modify, adapt, or redistribute altered versions of this work
 
-All original intellectual property related to IGI-2: Covert Strike belongs to Codemasters and respective rights holders.
+Additional Terms:
+- Distribution of modified or repackaged versions is strictly prohibited
+- Any unofficial versions are considered unauthorised and unsupported
 
-This is a non-commercial community project.
+This project is a non-commercial community initiative.
+
+All intellectual property related to “IGI-2: Covert Strike” belongs to Codemasters and respective rights holders.
+No ownership of original game assets is claimed.

@@ -2,7 +2,7 @@
 
 Important Updates regarding latest patch v1.4:
 
-All apps must be copied to PC folder of IGI2 for them to work. Ranker and Map updater app are also available at: https://www.donclanigi2.weebly.com
+All apps must be copied to PC folder of IGI2 for them to work. Ranker and Map updater app are also available at: https://reviveigi2.com/
 
 I.	IGI2 Ranker:
 

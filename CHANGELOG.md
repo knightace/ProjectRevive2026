@@ -1,3 +1,25 @@
+30/05/26 Version 1.5
+
+Important Updates regarding Patch v1.5:
+
+All apps such as IGI2 Ranker, Map Updater, Updater, are available on our Website:
+https://www.reviveigi2.com
+
+•	Enhanced Security: Stronger protection against abnormal behaviour from third party software.
+
+•	Quality of Life Update: New players will now see a helpful message guiding them to download missing maps via the map utility when joining servers.
+
+•	Multiplayer Focus: Single player options have been removed to make this patch fully multiplayer driven.
+
+•	Crash Fixes: Over a dozen server side crash issues resolved.
+
+•	Naval Warfare: Dive into water combat with the new shooting in water mechanism.
+
+•	Map Updater: Much faster than previous, with relevant UI and supports downloading all maps at once.,
+
+•	Self-updater: Now much secure and reliable to self-update the existing installation.
+
+
 27/03/26 Version 1.4
 
 Important Updates regarding latest patch v1.4:

@@ -5,9 +5,9 @@
 ## ✅ Official Links
 - GitHub Releases: https://github.com/knightace/ProjectRevive2026/releases
 - Official Discord: https://discord.gg/Jn3FjvvAk5
-- Official Website: https://reviveigi2.com/
-- One Drive Download Link: https://1drv.ms/u/c/37d6e4e0d1930401/IQDQupvjdXMfSYVQfPsXNgpRASUhChfaf8AzY-lHuKtQFz0?e=F9TteG
-- 4Shared Drive Download Link: https://www.4shared.com/rar/CtmfXzyXku/Revive2026.html
+- Official Website: ~~https://reviveigi2.com/~~ (Under Maintenance)
+- One Drive Download Link: https://1drv.ms/u/c/37d6e4e0d1930401/IQBRAZc657F8RqzkHkUUb-kCAXMP-njMgU2PwpYElsM9Xfo?e=FCPvE4
+- MediaFire Download Link: https://www.mediafire.com/file/s8squam3k2kecrz/Project_Revive_Setup.exe/file
 
 ## ❌ Unofficial Sources Warning
 Files found outside these platforms may:

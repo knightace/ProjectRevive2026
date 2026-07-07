@@ -34,7 +34,7 @@ Always check:
 | Field        | Example            |
 |-------------|------------------|
 | Version     | v1.0.0           |
-| File Name   | REVIVE_v1.0.0.zip|
+| File Name   | REVIVE_v1.0.0.exe|
 | Source      | GitHub Releases  |
 
 ---

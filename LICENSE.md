@@ -18,7 +18,7 @@ Subject to compliance with this License Agreement, individuals are granted a lim
 - Download Project REVIVE from official distribution channels.
 - Install and use Project REVIVE for personal, non-commercial purposes.
 - Share links directing users to official Project REVIVE distribution channels.
-- 
+  
 No ownership rights are transferred to the user.
 
 3. Official Distribution Sources

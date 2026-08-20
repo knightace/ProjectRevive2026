@@ -1,8 +1,8 @@
 Project REVIVE License Agreement
 
 Version 1.0
- Copyright © 2026 Project REVIVE Team
- All Rights Reserved
+Copyright © 2026 Project REVIVE Team
+All Rights Reserved
 
 1. Ownership
 
@@ -26,9 +26,9 @@ Project REVIVE may only be distributed through distribution channels explicitly 
 
 Official sources may include:
 
--Official GitHub repository
--Official Nexus Mods page
--Other sources publicly announced by the Project REVIVE Team
+Official GitHub repository
+Official Nexus Mods page
+Other sources publicly announced by the Project REVIVE Team
 
 Only the Project REVIVE Team may authorize additional distribution channels.
 

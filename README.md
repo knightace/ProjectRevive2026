@@ -2,9 +2,9 @@
 Project REVIVE is a community-driven, non-commercial patch project aimed at improving stability and restoring multiplayer usability for IGI-2: Covert Strike after legacy services (e.g., GameSpy) were discontinued.
 ## License
 
-This project is licensed under CC BY-NC-ND 4.0.
+This project is licensed under the Project REVIVE License Agreement (PRLA) v1.0. Please refer to the LICENSE.md file for further details.
 
-You may use and share the patch, but modification and commercial use are strictly prohibited.
+Personal, non-commercial use of the patch is permitted. Redistribution, re-uploading, modification, and commercial use are prohibited without prior written permission from the Project Revive - IGI2 Team.
 
 # Downloads
 ➡️ Download the latest installer from **Releases**:
@@ -19,6 +19,10 @@ See:
 ---
 
 ## ⚠️ Safety Notice
+- The ModDB page titled "Project Revive [IGI2 Covert Strike]" is not affiliated with, endorsed by, authorized by, or associated with the official Project REVIVE Team.
+- The website reviveigi2.com is not affiliated with, endorsed by, authorized by, or associated with the official Project REVIVE Team.
+
+Users should obtain Project REVIVE only from official distribution channels designated by the Project REVIVE Team.
 - Do NOT download from third-party sites
 - Do NOT use modified or repacked versions
 - Modified versions are NOT supported
@@ -50,8 +54,7 @@ No ownership is claimed over the original game.
 
 ## Support / Community
 - Discord: https://discord.gg/Jn3FjvvAk5
-- Website: https://reviveigi2.com/
-- 
+- Nexus Mods: https://www.nexusmods.com/igi2covertstrike/mods/16
 ## Legal Notice
 
 This repository is maintained in good faith as a non-commercial community project.
